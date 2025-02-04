@@ -57,7 +57,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-Our financial tracking app aims to empower users to effortlessly manage their personal finances by offering an intuitive, efficient, and secure platform. By integrating automated expense classification, real-time notifications, and intelligent financial insights, the app will help users track spending, set personalized budgets, and plan for future savings. Additionally, the app will address common pain points such as privacy concerns, investment uncertainties, and the challenge of managing multiple accounts, ensuring a seamless experience for users of all ages.
+A clean financial tracking app with privacy,efficiency and accessibility.
 
 ## User Requirements
 
@@ -91,10 +91,10 @@ Our financial tracking app aims to empower users to effortlessly manage their pe
 10. **Bill Payment Reminders:**  
     As a user prone to forgetting due dates, I want timely reminders for upcoming bills and recurring payments so that I can ensure timely payments and avoid late fees.
 
-## Activity Diagrams
+## Activity Diagrams (TODO)
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
-## Clickable Prototype
+## Clickable Prototype (TODO)
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
