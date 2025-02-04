@@ -5,8 +5,11 @@ A little exercise to get started with the specification phase of the software de
 ## Team members (In Alphabetical Order)
 
 [**Nina Li**](https://github.com/nina-jsl/)
+
 [**Allen Ni**](https://github.com/AllenNi66/)  
-[**Sirui Wang**](https://github.com/siruiii/)  
+
+[**Sirui Wang**](https://github.com/siruiii/) 
+ 
 [**Zifan Zhao**](https://github.com/Exiam6/)
 
 ## Stakeholders
