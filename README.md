@@ -9,7 +9,7 @@ A little exercise to get started with the specification phase of the software de
 [**Allen Ni**](https://github.com/AllenNi66/)  
 
 [**Sirui Wang**](https://github.com/siruiii/) 
- 
+
 [**Zifan Zhao**](https://github.com/Exiam6/)
 
 ## Stakeholders
@@ -17,9 +17,9 @@ A little exercise to get started with the specification phase of the software de
 **Four goals/needs**
 
 - **Sam:**
-  - Efficiency: expense classification, clean UI?
+  - Efficiency: expense classification, clean UI
   - Timely
-  - Deal with Emergency: some service hotline for emergency cases?
+  - Deal with Emergency: some service hotline for emergency cases
   - Accessibility for all ages: AI services?
 
 - **Sarah:**
