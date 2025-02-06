@@ -68,19 +68,19 @@ A clean financial tracking app with privacy,efficiency and accessibility.
    As a user who needs timely information, I want to receive real-time notifications about my transactions to ensure safety and address any financial emergencies promptly, including quick access to a service hotline.
 
 3. **Secure Investment Recommendations:**  
-   As a user concerned about privacy and investment uncertainties, I want the app to offer secure, data-safe recommendations and connect me to trusted investment services so that I feel confident managing my money.
+   As a user concerned about privacy, I want the app to offer secure, data-safe recommendations and connect me to trusted investment services so that I feel confident managing my money.
 
 4. **Portfolio Optimization Tools:**  
-   As a user aiming to combat inflation, I want tools that analyze my investments and suggest portfolio adjustments so that I can maximize revenue while minimizing risks.
+   As a user aiming to combat inflation, I want timely updates from the app after it automatically checks for latest products that meets my need.
 
 5. **Unified Expense Dashboard:**  
-   As a user with multiple accounts, I want the app to consolidate all my expense data into one dashboard so that I can keep track of my overall spending easily.
+   As a user with multiple accounts, I want the app to compile all my expense data into one dashboard so that I can keep track of my overall spending easily.
 
 6. **Consistent Expense Tracking:**  
-   As a user who struggles with overspending, I want a simple and intuitive expense tracking system that consistently records my transactions so that I can monitor and adjust my spending habits.
+   As a user who struggles with overspending, I want a simple and intuitive expense tracking system that consistently records my transactions and alarams me when I spend too aggressively so that I can monitor and adjust my spending habits.
 
 7. **Savings Goal Management:**  
-   As a user planning for the future, I want a feature that helps me set and track savings goals so that I can effectively prepare for future financial needs.
+   As a user planning for the future, I want a feature that helps me set, track, and monitor savings goals so that I can effectively prepare for future financial needs.
 
 8. **Automated Expense Entry:**  
    As a user who finds manual expense classification challenging, I want the app to simplify expense entry through automation and intelligent suggestions so that I don’t have to worry about categorizing every expense correctly.
