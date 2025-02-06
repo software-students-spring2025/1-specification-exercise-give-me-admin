@@ -112,4 +112,3 @@ SpendWise is a smart and intuitive expense-tracking app that empowers users to c
 
 - Function 4: Visualize spending patterns through comprehensive statistics, featuring overall and category-specific breakdowns alongside monthly and weekly trend analysis.
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
