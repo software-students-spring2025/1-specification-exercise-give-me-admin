@@ -84,10 +84,10 @@ A clean financial tracking app with privacy,efficiency and accessibility.
 
 8. **Automated Expense Entry:**  
    As a user who finds manual expense classification tedious, I want the app to streamline expense entry with automation and smart suggestions, ensuring accurate categorization without extra effort.
-   
-9. **Personalized Budgeting & Alerts:**  
-   As a user focused on maintaining a budget, I want personalized budgeting tools with alerts when I approach spending limits so that I can avoid overspending and stick to my budget.
 
+9. **Personalized Budgeting & Alerts:**  
+   As a user focused on maintaining a budget, I want personalized budgeting tools with real-time alerts when I approach my spending limits, helping me stay on track and avoid overspending.
+   
 10. **Bill Payment Reminders:**  
     As a user prone to forgetting due dates, I want timely reminders for upcoming bills and recurring payments so that I can ensure timely payments and avoid late fees.
 
