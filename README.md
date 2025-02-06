@@ -91,9 +91,10 @@ SpendWise is a smart and intuitive expense-tracking app that empowers users to c
 10. **Bill Payment Reminders:**  
     As a user prone to forgetting due dates, I want timely reminders for upcoming bills and recurring payments so that I can ensure timely payments and avoid late fees.
 
-## Activity Diagrams (TODO)
+## Activity Diagrams 
+![Diagram](https://github.com/user-attachments/assets/df0e2cad-7752-4f94-83e2-82e85fa05c32)
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+
 
 ## Clickable Prototype
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
