@@ -61,11 +61,11 @@ A clean financial tracking app with privacy,efficiency and accessibility.
 
 ## User Requirements
 
-1. **Efficient Expense Classification:**  
-   As a user who values efficiency, I want the app to automatically classify my expenses with a clean and intuitive UI so that I can review my spending quickly and easily.
+1. **Organized Expense Overview**  
+   As a user who values efficiency, I want the app to automatically categorize my expenses and present a clear, structured overview so that I can easily grasp the current state of my spending.
 
 2. **Timely Financial Notifications:**  
-   As a user who needs timely information, I want to receive real-time notifications about my transactions and account status so that I can address any financial emergencies promptly, including quick access to a service hotline.
+   As a user who needs timely information, I want to receive real-time notifications about my transactions to ensure safety and address any financial emergencies promptly, including quick access to a service hotline.
 
 3. **Secure Investment Recommendations:**  
    As a user concerned about privacy and investment uncertainties, I want the app to offer secure, data-safe recommendations and connect me to trusted investment services so that I feel confident managing my money.
