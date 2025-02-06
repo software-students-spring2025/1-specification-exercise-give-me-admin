@@ -68,28 +68,28 @@ SpendWise is a smart and intuitive expense-tracking app that empowers users to c
    As a user who needs timely information, I want to receive real-time notifications about my transactions to ensure safety and address any financial emergencies promptly, including quick access to a service hotline.
 
 3. **Secure Investment Recommendations:**  
-   As a user concerned about privacy and investment uncertainties, I want the app to offer secure, data-safe recommendations and connect me to trusted investment services so that I feel confident managing my money.
+   As a user concerned about privacy, I want the app to offer secure, data-safe recommendations and connect me to trusted investment services so that I feel confident managing my money.
 
 4. **Portfolio Optimization Tools:**  
-   As a user aiming to combat inflation, I want tools that analyze my investments and suggest portfolio adjustments so that I can maximize revenue while minimizing risks.
+   As a user aiming to combat inflation, I want timely updates from the app after it automatically checks for latest products that meets my need.
 
 5. **Unified Expense Dashboard:**  
-   As a user with multiple accounts, I want the app to consolidate all my expense data into one dashboard so that I can keep track of my overall spending easily.
+   As a user with multiple accounts, I want the app to compile all my expense data into one dashboard so that I can keep track of my overall spending easily.
 
 6. **Consistent Expense Tracking:**  
-   As a user who struggles with overspending, I want a simple and intuitive expense tracking system that consistently records my transactions so that I can monitor and adjust my spending habits.
+   As a user who struggles with overspending, I want a simple and intuitive expense tracking system that consistently records my transactions and alarms me when I spend too aggressively so that I can monitor and adjust my spending habits.
 
 7. **Savings Goal Management:**  
-   As a user planning for the future, I want a feature that helps me set and track savings goals so that I can effectively prepare for future financial needs.
+   As a user planning for the future, I want a feature that helps me set, track, and monitor savings goals so that I can effectively prepare for future financial needs.
 
 8. **Automated Expense Entry:**  
-   As a user who finds manual expense classification challenging, I want the app to simplify expense entry through automation and intelligent suggestions so that I don’t have to worry about categorizing every expense correctly.
+   As a user who finds manual expense classification tedious, I want the app to streamline expense entry with automation and smart suggestions, ensuring accurate categorization without extra effort.
 
 9. **Personalized Budgeting & Alerts:**  
-   As a user focused on maintaining a budget, I want personalized budgeting tools with alerts when I approach spending limits so that I can avoid overspending and stick to my budget.
+   As a user focused on maintaining a budget, I want personalized budgeting tools with real-time alerts when I approach my spending limits, helping me stay on track and avoid overspending.
 
 10. **Bill Payment Reminders:**  
-    As a user prone to forgetting due dates, I want timely reminders for upcoming bills and recurring payments so that I can ensure timely payments and avoid late fees.
+    As a user prone to forgetting due dates (e.g. credit card, rent, electricity due dates), I want timely reminders for upcoming bills and recurring payments so that I can ensure timely payments and avoid late or extra fees.
 
 ## Activity Diagrams 
 ![Diagram](https://github.com/user-attachments/assets/df0e2cad-7752-4f94-83e2-82e85fa05c32)
