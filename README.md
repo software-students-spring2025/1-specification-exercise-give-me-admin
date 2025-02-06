@@ -95,6 +95,12 @@ A clean financial tracking app with privacy,efficiency and accessibility.
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
-## Clickable Prototype (TODO)
+## Clickable Prototype
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="/prototype%20gif/login.gif" width="250" alt="Login">
+    <img src="/prototype%20gif/addaccount.gif" width="208" alt="Add Account">
+    <img src="/prototype%20gif/addexpense.gif" width="210" alt="Add Expense">
+    <img src="/prototype%20gif/stats.gif" width="201" alt="Stats">
+</div>
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
