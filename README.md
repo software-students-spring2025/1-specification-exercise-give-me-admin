@@ -77,14 +77,14 @@ A clean financial tracking app with privacy,efficiency and accessibility.
    As a user with multiple accounts, I want the app to compile all my expense data into one dashboard so that I can keep track of my overall spending easily.
 
 6. **Consistent Expense Tracking:**  
-   As a user who struggles with overspending, I want a simple and intuitive expense tracking system that consistently records my transactions and alarams me when I spend too aggressively so that I can monitor and adjust my spending habits.
+   As a user who struggles with overspending, I want a simple and intuitive expense tracking system that consistently records my transactions and alarms me when I spend too aggressively so that I can monitor and adjust my spending habits.
 
 7. **Savings Goal Management:**  
    As a user planning for the future, I want a feature that helps me set, track, and monitor savings goals so that I can effectively prepare for future financial needs.
 
 8. **Automated Expense Entry:**  
-   As a user who finds manual expense classification challenging, I want the app to simplify expense entry through automation and intelligent suggestions so that I don’t have to worry about categorizing every expense correctly.
-
+   As a user who finds manual expense classification tedious, I want the app to streamline expense entry with automation and smart suggestions, ensuring accurate categorization without extra effort.
+   
 9. **Personalized Budgeting & Alerts:**  
    As a user focused on maintaining a budget, I want personalized budgeting tools with alerts when I approach spending limits so that I can avoid overspending and stick to my budget.
 
