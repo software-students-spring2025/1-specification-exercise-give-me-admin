@@ -57,7 +57,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-A clean financial tracking app with privacy,efficiency and accessibility.
+SpendWise is a smart and intuitive expense-tracking app that empowers users to curb overspending and take control of their financial future.
 
 ## User Requirements
 
