@@ -87,9 +87,9 @@ A clean financial tracking app with privacy,efficiency and accessibility.
 
 9. **Personalized Budgeting & Alerts:**  
    As a user focused on maintaining a budget, I want personalized budgeting tools with real-time alerts when I approach my spending limits, helping me stay on track and avoid overspending.
-   
+
 10. **Bill Payment Reminders:**  
-    As a user prone to forgetting due dates, I want timely reminders for upcoming bills and recurring payments so that I can ensure timely payments and avoid late fees.
+    As a user prone to forgetting due dates (e.g. credit card, rent, electricity due dates), I want timely reminders for upcoming bills and recurring payments so that I can ensure timely payments and avoid late or extra fees.
 
 ## Activity Diagrams (TODO)
 
