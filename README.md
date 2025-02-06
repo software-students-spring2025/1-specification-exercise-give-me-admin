@@ -98,10 +98,18 @@ SpendWise is a smart and intuitive expense-tracking app that empowers users to c
 
 ## Clickable Prototype
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="/prototype%20gif/login.gif" width="250" alt="Login">
-    <img src="/prototype%20gif/addaccount.gif" width="208" alt="Add Account">
-    <img src="/prototype%20gif/addexpense.gif" width="210" alt="Add Expense">
-    <img src="/prototype%20gif/stats.gif" width="201" alt="Stats">
+    <img src="/prototype%20gif/login.gif" width="166" alt="Login">
+    <img src="/prototype%20gif/addaccount.gif" width="138" alt="Add Account">
+    <img src="/prototype%20gif/addexpense.gif" width="140" alt="Add Expense">
+    <img src="/prototype%20gif/stats.gif" width="134" alt="Stats">
 </div>
+
+- Function 1: Create a new account and customize your settings before first login, or log in your existing account.
+
+- Function 2: Manage multiple accounts through a centralized home page, with the ability to add new accounts and monitor all existing ones.
+
+- Function 3: Record expenses by selecting specific accounts, categories, and amounts.
+
+- Function 4: Visualize spending patterns through comprehensive statistics, featuring overall and category-specific breakdowns alongside monthly and weekly trend analysis.
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
