@@ -108,7 +108,7 @@ SpendWise is a smart and intuitive expense-tracking app that empowers users to c
 
 - Function 2: Manage multiple accounts from a centralized home page. Add new accounts, monitor existing ones, and track progress toward your financial goals.
 
-- Function 3: Record expenses by selecting specific accounts, categories, and amounts.
+- Function 3: Log expenses, income, and transfers by selecting specific accounts, categories, and amounts.
 
 - Function 4: Visualize spending patterns through comprehensive statistics, featuring overall and category-specific breakdowns alongside monthly and weekly trend analysis.
 
