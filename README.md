@@ -92,7 +92,7 @@ SpendWise is a smart and intuitive expense-tracking app that empowers users to c
     As a user prone to forgetting due dates (e.g. credit card, rent, electricity due dates), I want timely reminders for upcoming bills and recurring payments so that I can ensure timely payments and avoid late or extra fees.
 
 ## Activity Diagrams 
-![Diagram](https://github.com/user-attachments/assets/df0e2cad-7752-4f94-83e2-82e85fa05c32)
+![Diagram](https://github.com/software-students-spring2025/1-specification-exercise-give-me-admin/blob/zifan/test1/Diagram.png)
 
 
 
