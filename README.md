@@ -92,8 +92,7 @@ A little exercise to get started with the specification phase of the software de
     As a user prone to forgetting due dates (e.g. credit card, rent, electricity due dates), I want timely reminders for upcoming bills and recurring payments so that I can ensure timely payments and avoid late or extra fees.
 
 ## Activity Diagrams 
-![Diagram](https://github.com/software-students-spring2025/1-specification-exercise-give-me-admin/blob/zifan/test1/Diagram.png)
-
+ <img src="ActivityDiagram.jpg" width="500" alt="Login">
 
 
 ## Clickable Prototype
