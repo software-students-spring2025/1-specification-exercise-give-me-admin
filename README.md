@@ -57,7 +57,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-SpendWise is a smart and intuitive expense-tracking app that empowers users to curb overspending and take control of their financial future.
+**SpendWise** is a smart and intuitive expense-tracking app that empowers users to curb overspending and take control of their financial future.
 
 ## User Requirements
 
@@ -106,9 +106,9 @@ SpendWise is a smart and intuitive expense-tracking app that empowers users to c
 
 - Function 1: Create a new account and customize your settings before first login, or log in your existing account.
 
-- Function 2: Manage multiple accounts through a centralized home page, with the ability to add new accounts and monitor all existing ones.
+- Function 2: Manage multiple accounts from a centralized home page. Add new accounts, monitor existing ones, and track progress toward your financial goals.
 
-- Function 3: Record expenses by selecting specific accounts, categories, and amounts.
+- Function 3: Log expenses, income, and transfers by selecting specific accounts, categories, and amounts.
 
 - Function 4: Visualize spending patterns through comprehensive statistics, featuring overall and category-specific breakdowns alongside monthly and weekly trend analysis.
 
