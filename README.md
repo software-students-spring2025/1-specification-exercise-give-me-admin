@@ -77,7 +77,7 @@ A little exercise to get started with the specification phase of the software de
    As a user with multiple accounts, I want the app to compile all my expense data into one dashboard so that I can keep track of my overall spending easily.
 
 6. **Consistent Expense Tracking:**  
-   As a user who struggles with overspending, I want a simple and intuitive expense tracking system that consistently records my transactions and alarms me when I spend too aggressively so that I can monitor and adjust my spending habits.
+   As a user who struggles with overspending, I want a simple and intuitive expense tracking system that consistently records my transactions so I can monitor and adjust my spending habits.
 
 7. **Savings Goal Management:**  
    As a user planning for the future, I want a feature that helps me set, track, and monitor savings goals so that I can effectively prepare for future financial needs.
