@@ -6,9 +6,9 @@ A little exercise to get started with the specification phase of the software de
 
 [**Nina Li**](https://github.com/nina-jsl/)
 
-[**Allen Ni**](https://github.com/AllenNi66/)  
+[**Allen Ni**](https://github.com/AllenNi66/)
 
-[**Sirui Wang**](https://github.com/siruiii/) 
+[**Sirui Wang**](https://github.com/siruiii/)
 
 [**Zifan Zhao**](https://github.com/Exiam6/)
 
@@ -17,17 +17,20 @@ A little exercise to get started with the specification phase of the software de
 **Four goals/needs**
 
 - **Sam:**
+
   - Efficiency: expense classification, clean UI
   - Timely
   - Deal with Emergency: some service hotline for emergency cases
   - Accessibility for all ages: AI services?
 
 - **Sarah:**
+
   - Combat inflation / Maximize portfolio revenue
   - Minimize risk
   - Keeping track of expenses
 
 - **Guodong:**
+
   - A Simple and Intuitive System
   - Saving for Future Needs
 
@@ -39,14 +42,17 @@ A little exercise to get started with the specification phase of the software de
 **Four problems/frustrations**
 
 - **Sam:**
+
   - Privacy/Data Safety
   - Uncertainty for Investment
 
 - **Sarah:**
+
   - Choosing suitable portfolio
   - Multiple accounts
 
 - **Guodong:**
+
   - Struggles with Overspending
   - Lack of Consistency in Tracking
 
@@ -77,7 +83,7 @@ A little exercise to get started with the specification phase of the software de
    As a user with multiple accounts, I want the app to compile all my expense data into one dashboard so that I can keep track of my overall spending easily.
 
 6. **Consistent Expense Tracking:**  
-   As a user who struggles with overspending, I want a simple and intuitive expense tracking system that consistently records my transactions and alarms me when I spend too aggressively so that I can monitor and adjust my spending habits.
+   As a user who struggles with overspending, I want a simple and intuitive expense tracking system that consistently records my transactions so that I can monitor and adjust my spending habits.
 
 7. **Savings Goal Management:**  
    As a user planning for the future, I want a feature that helps me set, track, and monitor savings goals so that I can effectively prepare for future financial needs.
@@ -91,12 +97,12 @@ A little exercise to get started with the specification phase of the software de
 10. **Bill Payment Reminders:**  
     As a user prone to forgetting due dates (e.g. credit card, rent, electricity due dates), I want timely reminders for upcoming bills and recurring payments so that I can ensure timely payments and avoid late or extra fees.
 
-## Activity Diagrams 
+## Activity Diagrams
+
 ![Diagram](https://github.com/software-students-spring2025/1-specification-exercise-give-me-admin/blob/zifan/test1/Diagram.png)
 
-
-
 ## Clickable Prototype
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="/prototype%20gif/login.gif" width="166" alt="Login">
     <img src="/prototype%20gif/addaccount.gif" width="138" alt="Add Account">
