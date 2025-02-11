@@ -77,10 +77,10 @@ A little exercise to get started with the specification phase of the software de
    As a user with multiple accounts, I want the app to compile all my expense data into one dashboard so that I can keep track of my overall spending easily.
 
 6. **Consistent Expense Tracking:**  
-   As a user who struggles with overspending, I want a simple and intuitive expense tracking system that consistently records my transactions so I can monitor and adjust my spending habits.
+   **As a new user who struggles with overspending, I want a simple and intuitive expense tracking app that consistently records my transactions so I can check and adjust my spending habits.**
 
 7. **Savings Goal Management:**  
-   As a user planning for the future, I want a feature that helps me set, track, and monitor savings goals so that I can effectively prepare for future financial needs.
+   **As a user planning for the future, I want a easy way to set, track, and monitor savings goals every day so that I can effectively prepare for future financial needs**
 
 8. **Automated Expense Entry:**  
    As a user who finds manual expense classification tedious, I want the app to streamline expense entry with automation and smart suggestions, ensuring accurate categorization without extra effort.
@@ -92,8 +92,17 @@ A little exercise to get started with the specification phase of the software de
     As a user prone to forgetting due dates (e.g. credit card, rent, electricity due dates), I want timely reminders for upcoming bills and recurring payments so that I can ensure timely payments and avoid late or extra fees.
 
 ## Activity Diagrams 
- <img src="ActivityDiagram.jpg" width="500" alt="Login">
 
+### Activity Diagrams Overview
+ <img src="Diagram.jpg" width="500" alt="Login">
+
+### User Story 1
+#### As a new user who struggles with overspending, I want a simple and intuitive expense tracking app that consistently records my transactions so I can check and adjust my spending habits.
+ <img src="Diagram_6.jpg" width="500" alt="Login">
+
+### User Story 2
+#### As a user planning for the future, I want a easy way to set, track, and monitor savings goals every day so that I can effectively prepare for future financial needs.
+  <img src="Diagram_7.jpg" width="500" alt="Login">
 
 ## Clickable Prototype
 <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
