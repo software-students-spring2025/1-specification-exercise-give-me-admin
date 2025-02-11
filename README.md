@@ -94,15 +94,15 @@ A little exercise to get started with the specification phase of the software de
 ## Activity Diagrams 
 
 ### Activity Diagrams Overview
- <img src="Diagram.jpg" width="500" alt="Login">
+ <img src="https://github.com/software-students-spring2025/1-specification-exercise-give-me-admin/blob/main/Diagram.png" width="500" alt="Login">
 
 ### User Story 1
 #### As a new user who struggles with overspending, I want a simple and intuitive expense tracking app that consistently records my transactions so I can check and adjust my spending habits.
- <img src="Diagram_6.jpg" width="500" alt="Login">
+ <img src="https://github.com/software-students-spring2025/1-specification-exercise-give-me-admin/blob/main/Diagram_6.png" width="500" alt="Login">
 
 ### User Story 2
 #### As a user planning for the future, I want a easy way to set, track, and monitor savings goals every day so that I can effectively prepare for future financial needs.
-  <img src="Diagram_7.jpg" width="500" alt="Login">
+  <img src="https://github.com/software-students-spring2025/1-specification-exercise-give-me-admin/blob/main/Diagram_7.png" width="500" alt="Login">
 
 ## Clickable Prototype
 <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
