@@ -105,6 +105,10 @@ A little exercise to get started with the specification phase of the software de
   <img src="https://github.com/software-students-spring2025/1-specification-exercise-give-me-admin/blob/main/Diagram_7.png" width="500" alt="Login">
 
 ## Clickable Prototype
+**Wireframe**:
+<img src="wireframe.png" width=800>
+
+**Prototype**:
 <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
     <img src="/prototype%20gif/login.gif" width="200" alt="Login">
     <img src="/prototype%20gif/addaccount.gif" width="200" alt="Add Account">
